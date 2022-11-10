@@ -1,0 +1,49 @@
+html{ background-image: url('background.jpg');}
+body{ margin-top:10px;  		/* felső margó */
+    margin-bottom:10px;	/* alsó margó */
+    /* bal és jobb margó 'auto' beállítása középre igazítást jelent */
+    margin-left:auto;		
+    margin-right:auto;	
+    /* középre igazítás vége */
+    font-size:120%;		/* betű mérete */
+    width:90%;				/* szélesség */
+    font-family: Verdana, Arial, sans-serif;	/* betűtípus */
+    background-color:gainsboro;	/* háttérszín */
+}
+h5 {
+    color: aqua;
+}
+table {
+    border-style: solid;
+    border-color: black;
+    border-width: 10 px;
+}
+#news {
+    max-width: 450px;
+    font-family: Bahnschrift;
+    text-align: start;
+    background-color: white;
+    color: rgb(43, 41, 41);
+    border-collapse:collapse;
+    border: 3px;px hidden black;
+
+}
+
+#container {
+    background-color: blueviolet;
+}
+
+.div-1 {
+    float: left;
+    width: 45%;
+    padding: 2%;
+}
+.div-2 {
+    float: right;
+    width: 5%;
+    padding: 2%;
+}
+  
+button {
+    float: left;
+}
