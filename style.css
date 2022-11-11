@@ -14,9 +14,11 @@ h5 {
     color: aqua;
 }
 table {
-    border-style: solid;
-    border-color: black;
+    border-style: outset;
+    border-color: rgb(199, 12, 140);
     border-width: 10 px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #news {
     max-width: 450px;
